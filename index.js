@@ -114,7 +114,7 @@ async function postVideo(page, videoFile, caption) {
 }
 
 async function main() {
-  const browser = await chromium.launch({ headless: false });
+  const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext({
     permissions: ["notifications"],
   });
