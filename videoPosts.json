@@ -1,0 +1,47 @@
+{
+  "videos": [
+    {
+      "videoFile": "Goal1.mp4",
+      "scorer": "عبد الصمد الزلزولي",
+      "minute": "23",
+      "count": 0,
+      "captions": []
+    },
+    {
+      "videoFile": "Goal2.mp4",
+      "scorer": "سفيان رحيمي",
+      "minute": "26",
+      "count": 0,
+      "captions": []
+    },
+    {
+      "videoFile": "Goal3.mp4",
+      "scorer": "بلال الخنوس",
+      "minute": "51",
+      "count": 0,
+      "captions": []
+    },
+    {
+      "videoFile": "Goal4.mp4",
+      "scorer": "سفيان رحيمي",
+      "minute": "64",
+      "count": 0,
+      "captions": []
+    },
+    {
+      "videoFile": "Goal5.mp4",
+      "scorer": "أكرم النقاش",
+      "minute": "73",
+      "count": 0,
+      "captions": []
+    },
+    {
+      "videoFile": "Goal6.mp4",
+      "scorer": "أشرف حكيمي",
+      "minute": "87",
+      "count": 0,
+      "captions": []
+    }
+  ],
+  "lastPostedIndex": 0
+}
